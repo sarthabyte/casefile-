@@ -1,0 +1,13 @@
+# id|name|description|connected_location_ids
+1|Flat 4B - Crime Scene|Meena's apartment and the first crime scene.|2,7
+2|Fourth-floor Corridor|A long corridor with several doors and a blind camera spot.|1,3,4,8
+3|Security Room|Security equipment and access card records.|2,5,6,9
+4|Stairwell|The stairwell between the fourth and fifth floors.|2,5,8
+5|Entrance Gate|The main entrance and visitor records.|3,4,10
+6|Manager's Office|Building management records and complaints.|3,9,11
+7|Kitchen|A small kitchen with a sink and a back service door.|1,8,12
+8|Laundry Room|A shared laundry room beside the service stairs.|2,4,7,9
+9|Maintenance Closet|Tools, spare locks, and maintenance logs are stored here.|3,6,8,10
+10|Parking Garage|A dim underground garage with vehicle spaces.|5,9,11
+11|Rooftop Access|A locked access landing near the roof door.|6,10,12
+12|Guest Room|An unused guest room with scattered personal belongings.|7,11

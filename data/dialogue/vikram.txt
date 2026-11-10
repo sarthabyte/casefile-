@@ -1,0 +1,9 @@
+# dialogue_id|speaker_id|required_flag|text
+1|0|-1|Ravi never left the lobby all night.
+2|0|-1|The lobby camera shows him at his desk the whole time.
+3|0|-1|Arjun pushed Ravi off the fourth floor.
+4|0|-1|Arjun was at the gate before 10:30, already angry.
+5|0|-1|No complaint was ever filed against Ravi.
+12|0|201|That access log can be wrong. Cards are sometimes shared around this building.
+13|0|202|The CCTV angle is poor. You cannot tell who was in the corridor from that clip.
+14|0|210|I never saw a spare key being signed out. Check with maintenance if you want.

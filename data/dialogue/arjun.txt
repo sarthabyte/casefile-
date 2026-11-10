@@ -1,0 +1,7 @@
+# dialogue_id|speaker_id|required_flag|text
+6|1|-1|I heard her scream on the phone and ran over.
+7|1|-1|I fought him off. He slipped by himself.
+8|1|-1|I threw the knife away because I panicked.
+15|1|203|I know the recording sounds bad, but I was still on the call when I heard the scream.
+16|1|205|I did not enter at 11:05. That could be the time the guard wrote down, not when I arrived.
+17|1|212|I have never seen that second phone before.

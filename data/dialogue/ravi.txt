@@ -1,0 +1,5 @@
+# dialogue_id|speaker_id|required_flag|text
+20|3|-1|I was doing my rounds. I did not hurt Meena or push anyone.
+21|3|210|The spare keys are kept for emergencies. I cannot tell you who used one that night.
+22|3|210|Vikram handles the sign-out register, not me.
+23|3|205|The gate clock has been unreliable for weeks. Do not trust one timestamp on its own.

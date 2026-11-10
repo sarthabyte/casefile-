@@ -1,0 +1,6 @@
+# dialogue_id|speaker_id|required_flag|text
+9|2|-1|I heard shouting around 11 PM.
+10|2|-1|I saw the guard on the stairs near our floor.
+11|2|-1|I think the boyfriend was inside before she screamed.
+18|2|207|The watch was already broken earlier that evening. Please do not assume it marks the exact time.
+19|2|208|The service corridor was often wet. Those prints could belong to anyone.

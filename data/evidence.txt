@@ -1,0 +1,13 @@
+# id|name|location_id|description (catalog is defined in src/evidence.c)
+1|Access card log|3|Records show a card opened Flat 4B around 10:42 PM.
+2|CCTV footage|2|A guard appears in the fourth-floor corridor, but the timestamp is unclear.
+3|Call recording|1|A scream is heard while Arjun is on the phone.
+4|Stairwell marks|4|Scuff marks suggest a struggle near the stairwell landing.
+5|Gate visitor log|5|The visitor log records Arjun entering at 11:05 PM, though the clock may be slow.
+6|Complaint against Ravi|6|A complaint was filed concerning Ravi's conduct.
+7|Broken wristwatch|7|A stopped watch reads 10:48 PM; it may have stopped before or during the incident.
+8|Wet footprints|8|Wet shoeprints cross the service corridor and do not clearly identify their owner.
+9|Torn note|9|A torn note mentions a meeting but has no name or complete time.
+10|Spare key register|10|A spare key was signed out, but the return column is blank.
+11|Cleaning receipt|11|A cleaning visit was booked for the evening, creating a possible timeline distraction.
+12|Unregistered phone|12|A second phone contains a deleted call entry with no saved contact name.

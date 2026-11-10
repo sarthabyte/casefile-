@@ -1,0 +1,5 @@
+# id|name|occupation|alibi|dialogue_file
+0|Vikram|Night Supervisor|Claims Ravi never left the lobby and tries to cover for him.|dialogue/vikram.txt
+1|Arjun|Meena's boyfriend|Was on a phone call, heard Meena scream, ran to help, and fought Ravi; Ravi fell during the struggle.|dialogue/arjun.txt
+2|Meena|Victim / witness record|Her recorded statements describe shouting and seeing the guard near the stairs.|dialogue/meena.txt
+3|Ravi|Security Guard|Was on duty and had a prior complaint against him.|dialogue/ravi.txt
