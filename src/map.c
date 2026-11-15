@@ -60,6 +60,26 @@ void displayMap(void)
     printf("=================================================\n");
 }
 
+void displayConnectionTable(void)
+{
+    int i;
+
+    printf("\n========== MOVE TO ANOTHER LOCATION ==========\n");
+    printf("  Room ID   Room Name                        Connected To        \n");
+    for (i = 1; i <= LOCATION_COUNT; i++) {
+        Location *location = getLocation(i);
+        int j;
+
+        printf("  %7d   %-30.30s  ", location->id, location->name);
+        for (j = 0; j < location->connectionCount; j++)
+            printf(" %d", location->connections[j]);
+        for (; j < 4; j++)
+            printf("   ");
+        printf("\n");
+    }
+    printf("Enter a destination ID (0 cancels): ");
+}
+
 void displayLocation(int locationID)
 {
     Location *location = getLocation(locationID);

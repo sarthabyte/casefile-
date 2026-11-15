@@ -173,7 +173,7 @@ void detectiveMode(GameState *game)
 
             case 2: {
                 int destinationID;
-                displayMap();
+                displayConnectionTable();
                 destinationID = readChoice("Destination ID: ");
 
                 if (destinationID >= 1 && destinationID <= LOCATION_COUNT) {
